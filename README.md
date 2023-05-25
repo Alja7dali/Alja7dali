@@ -1,4 +1,8 @@
-### Hi there 👋
+```c
+int main(int argc, char *argv[]) {
+  printf("Hello, world\n");
+}
+```
 
 <!--
 **Alja7dali/Alja7dali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
